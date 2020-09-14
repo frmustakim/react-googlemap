@@ -1,4 +1,6 @@
-This is a test project to find ones location using Googles Maps Geolocation Api
+This is a test project to find ones location using Googles Maps Geolocation Api.
+
+### This project uses dotenv library so make sure to create a `.env` file which will contain the google api key
 
 ## Available Scripts
 
